@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sem 3-4 ex2 class SmartNumber/1.0.0": {
+        "runtime": {
+          "Sem 3-4 ex2 class SmartNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sem 3-4 ex2 class SmartNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

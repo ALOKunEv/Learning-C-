@@ -1,0 +1,12 @@
+C:\Users\Okun\source\repos\Sem 3-4 ex2\Sem 3-4 ex2 class SmartNumber\bin\Debug\net8.0\Sem 3-4 ex2 class SmartNumber.deps.json
+C:\Users\Okun\source\repos\Sem 3-4 ex2\Sem 3-4 ex2 class SmartNumber\bin\Debug\net8.0\Sem 3-4 ex2 class SmartNumber.dll
+C:\Users\Okun\source\repos\Sem 3-4 ex2\Sem 3-4 ex2 class SmartNumber\bin\Debug\net8.0\Sem 3-4 ex2 class SmartNumber.pdb
+C:\Users\Okun\source\repos\Sem 3-4 ex2\Sem 3-4 ex2 class SmartNumber\obj\Debug\net8.0\Sem 3-4 ex2 class SmartNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okun\source\repos\Sem 3-4 ex2\Sem 3-4 ex2 class SmartNumber\obj\Debug\net8.0\Sem 3-4 ex2 class SmartNumber.AssemblyInfoInputs.cache
+C:\Users\Okun\source\repos\Sem 3-4 ex2\Sem 3-4 ex2 class SmartNumber\obj\Debug\net8.0\Sem 3-4 ex2 class SmartNumber.AssemblyInfo.cs
+C:\Users\Okun\source\repos\Sem 3-4 ex2\Sem 3-4 ex2 class SmartNumber\obj\Debug\net8.0\Sem 3-4 ex2 class SmartNumber.csproj.CoreCompileInputs.cache
+C:\Users\Okun\source\repos\Sem 3-4 ex2\Sem 3-4 ex2 class SmartNumber\obj\Debug\net8.0\Sem 3-4 ex2 class SmartNumber.sourcelink.json
+C:\Users\Okun\source\repos\Sem 3-4 ex2\Sem 3-4 ex2 class SmartNumber\obj\Debug\net8.0\Sem 3-4 ex2 class SmartNumber.dll
+C:\Users\Okun\source\repos\Sem 3-4 ex2\Sem 3-4 ex2 class SmartNumber\obj\Debug\net8.0\refint\Sem 3-4 ex2 class SmartNumber.dll
+C:\Users\Okun\source\repos\Sem 3-4 ex2\Sem 3-4 ex2 class SmartNumber\obj\Debug\net8.0\Sem 3-4 ex2 class SmartNumber.pdb
+C:\Users\Okun\source\repos\Sem 3-4 ex2\Sem 3-4 ex2 class SmartNumber\obj\Debug\net8.0\ref\Sem 3-4 ex2 class SmartNumber.dll
