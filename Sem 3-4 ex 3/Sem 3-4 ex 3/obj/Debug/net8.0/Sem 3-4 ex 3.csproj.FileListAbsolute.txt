@@ -1,0 +1,15 @@
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\bin\Debug\net8.0\Sem 3-4 ex 3.exe
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\bin\Debug\net8.0\Sem 3-4 ex 3.deps.json
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\bin\Debug\net8.0\Sem 3-4 ex 3.runtimeconfig.json
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\bin\Debug\net8.0\Sem 3-4 ex 3.dll
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\bin\Debug\net8.0\Sem 3-4 ex 3.pdb
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\obj\Debug\net8.0\Sem 3-4 ex 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\obj\Debug\net8.0\Sem 3-4 ex 3.AssemblyInfoInputs.cache
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\obj\Debug\net8.0\Sem 3-4 ex 3.AssemblyInfo.cs
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\obj\Debug\net8.0\Sem 3-4 ex 3.csproj.CoreCompileInputs.cache
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\obj\Debug\net8.0\Sem 3-4 ex 3.sourcelink.json
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\obj\Debug\net8.0\Sem 3-4 ex 3.dll
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\obj\Debug\net8.0\refint\Sem 3-4 ex 3.dll
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\obj\Debug\net8.0\Sem 3-4 ex 3.pdb
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\obj\Debug\net8.0\Sem 3-4 ex 3.genruntimeconfig.cache
+C:\Users\Okun\source\repos\Sem 3-4 ex 3\Sem 3-4 ex 3\obj\Debug\net8.0\ref\Sem 3-4 ex 3.dll

@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Okun\\source\\repos\\Sem 3-4 ex 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DF3613-7BFA-4A51-B12A-20E48D5A3CFD}|Sem 3-4 ex 3\\Sem 3-4 ex 3.csproj|c:\\users\\okun\\source\\repos\\sem 3-4 ex 3\\sem 3-4 ex 3\\mathextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DF3613-7BFA-4A51-B12A-20E48D5A3CFD}|Sem 3-4 ex 3\\Sem 3-4 ex 3.csproj|solutionrelative:sem 3-4 ex 3\\mathextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DF3613-7BFA-4A51-B12A-20E48D5A3CFD}|Sem 3-4 ex 3\\Sem 3-4 ex 3.csproj|c:\\users\\okun\\source\\repos\\sem 3-4 ex 3\\sem 3-4 ex 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DF3613-7BFA-4A51-B12A-20E48D5A3CFD}|Sem 3-4 ex 3\\Sem 3-4 ex 3.csproj|solutionrelative:sem 3-4 ex 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Okun\\source\\repos\\Sem 3-4 ex 3\\Sem 3-4 ex 3\\MathExtensions.cs",
+              "RelativeDocumentMoniker": "Sem 3-4 ex 3\\MathExtensions.cs",
+              "ToolTip": "C:\\Users\\Okun\\source\\repos\\Sem 3-4 ex 3\\Sem 3-4 ex 3\\MathExtensions.cs",
+              "RelativeToolTip": "Sem 3-4 ex 3\\MathExtensions.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:00:17.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Okun\\source\\repos\\Sem 3-4 ex 3\\Sem 3-4 ex 3\\Program.cs",
+              "RelativeDocumentMoniker": "Sem 3-4 ex 3\\Program.cs",
+              "ToolTip": "C:\\Users\\Okun\\source\\repos\\Sem 3-4 ex 3\\Sem 3-4 ex 3\\Program.cs",
+              "RelativeToolTip": "Sem 3-4 ex 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T14:23:44.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
